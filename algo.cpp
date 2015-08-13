@@ -10,4 +10,6 @@
 #include "framework/CImage.h"
 #include "framework/libparser.h"
 
-
+void computeHistogram(CImage &input, float *hist){
+  
+}
