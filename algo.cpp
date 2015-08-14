@@ -27,10 +27,5 @@ void computeHistogram(CImage &input, float *hist){
 
   printf("Total # of pixels: %ld\n", N);
 
-  // printf("Printing normalized histogram\n");
-  // for (int i = 0; i <= 255; i++){
-  //   // printf("%d\t%d\n", i, (int)(hist[i]*N));
-  //   // Normalized histogram
-  //   printf("%d\t%f\n", i, hist[i]);
-  // }
+
 }
