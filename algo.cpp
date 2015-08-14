@@ -26,6 +26,4 @@ void computeHistogram(CImage &input, float *hist){
   }
 
   printf("Total # of pixels: %ld\n", N);
-
-
 }
