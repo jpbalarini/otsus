@@ -27,3 +27,7 @@ void computeHistogram(CImage &input, float *hist){
 
   printf("Total # of pixels: %ld\n", N);
 }
+
+void computeOtsusSegmentation(CImage &input, float* hist, CImage *output, int overrided_threshold){
+
+}
