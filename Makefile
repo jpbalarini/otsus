@@ -47,6 +47,8 @@ lint:
 
 clean:
 	rm -f *.o
+	rm -f ./framework/*.o
+	rm ./otsus
 
 distclean: clean
 	rm -f $(EXEC)
