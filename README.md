@@ -6,7 +6,7 @@ The code is written in C++ and it uses Miguel Colom's [image processing framewor
 ## Setup
 1. Download the code
 2. make
-3. ./otsus input_image output_image [-t overrided_threshold]
+3. ./otsus [-t overrided_threshold] input_image output_image
 
 ## Licence
 The MIT License
